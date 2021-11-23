@@ -1,3 +1,4 @@
+unified_mode true
 resource_name :elasticsearch_exporter
 provides :elasticsearch_exporter
 

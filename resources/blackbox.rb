@@ -1,3 +1,4 @@
+unified_mode true
 resource_name :blackbox_exporter
 provides :blackbox_exporter
 

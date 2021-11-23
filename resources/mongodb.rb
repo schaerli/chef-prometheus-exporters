@@ -1,3 +1,4 @@
+unified_mode true
 resource_name :mongodb_exporter
 provides :mongodb_exporter
 

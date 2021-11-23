@@ -1,3 +1,4 @@
+unified_mode true
 resource_name :process_exporter
 provides :process_exporter
 

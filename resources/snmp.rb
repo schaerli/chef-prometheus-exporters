@@ -7,6 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
+unified_mode true
 resource_name :snmp_exporter
 provides :snmp_exporter
 

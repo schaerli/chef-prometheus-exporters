@@ -1,3 +1,4 @@
+unified_mode true
 resource_name :nginx_exporter
 provides :nginx_exporter
 

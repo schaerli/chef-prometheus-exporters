@@ -3,6 +3,7 @@
 # Resource:: rabbitmq
 #
 
+unified_mode true
 resource_name :rabbitmq_exporter
 provides :rabbitmq_exporter
 

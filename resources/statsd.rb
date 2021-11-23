@@ -7,6 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
+unified_mode true
 resource_name :statsd_exporter
 provides :statsd_exporter
 

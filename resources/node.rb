@@ -68,6 +68,7 @@ COLLECTOR_LIST = %w(
   zfs
 ).freeze
 
+unified_mode true
 resource_name :node_exporter
 provides :node_exporter
 
